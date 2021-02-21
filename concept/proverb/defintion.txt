@@ -1,0 +1,8 @@
+###
+#TYPE:def
+#BEGIN:═
+#TERM:╬
+###
+
+@Defintion: defintion goes here
+

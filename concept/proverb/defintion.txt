@@ -1,8 +1,14 @@
 ###
-#TYPE:def
-#BEGIN:═
-#TERM:╬
+#TYPE:MSF
+#BEGIN:~
+#TERM:¶
 ###
 
-@Defintion: defintion goes here
+~Defintion: markdown content goes here 
+¶
 
+~Examples:markdown goes here
+¶
+
+~Ref: markdown goes here
+¶

@@ -1,5 +1,5 @@
 ###
-#TYPE:DTV
+#TYPE:DTS
 #DEL:¦
 #TERM:¶
 #HEADERS:proverb¦meaning-mr¦usage¦meaning-en¦¶
